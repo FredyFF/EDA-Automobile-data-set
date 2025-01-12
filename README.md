@@ -9,7 +9,7 @@ The third factor is the relative average loss payment per insured vehicle year. 
 
 
 #### References :
-- ©Great Learning
+- ©Great Learning https://www.mygreatlearning.com/
 - https://www.kaggle.com/datasets/toramky/automobile-dataset
 
 
